@@ -15,6 +15,19 @@ AI models like GPT have become incredible tools for creativity, problem-solving,
 
 ## How to Use 🛠️
 
+1. Browse through the prompts in the collection
+2. Select a prompt that matches your needs
+3. Copy the prompt template
+4. Paste it into your preferred AI model interface
+5. Replace any placeholders (marked with {curly braces})
+6. Add your specific details or requirements
+7. Submit to the AI model and get your results
+
+Tips for best results:
+- Be specific with your requirements
+- Use the formatting suggested in the prompt
+- Modify prompts as needed for your use case
+- Start with basic prompts before trying advanced ones
 
 ## Made by Mian Ali Khalid 👨‍💻
 
