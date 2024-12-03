@@ -14,6 +14,7 @@ Explore these AI prompt examples to streamline your content creation process.
 - Develop a character sketch for a hero with an unusual superpower. Describe their origin story, how they discovered their power, and its implications on their life and relationships.  
 - Write an informative article on the benefits of meditation for mental health. Discuss scientific research, personal anecdotes, and practical tips for beginners.  
 
+
 ---
 
 ## AI Prompt Examples for Marketing
